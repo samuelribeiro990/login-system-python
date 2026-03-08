@@ -17,7 +17,7 @@ Projeto simples desenvolvido para praticar lógica de programação em Python.
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/sistema-login-python
+git clone https://github.com/samuelribeiro990/login-system-python.git
 
 Entre na pasta do projeto:
 
